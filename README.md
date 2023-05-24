@@ -3,7 +3,18 @@
 
 - 🌱 I’m currently learning **Advance Laravel**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about ** 
+- -PHP Frameworks : Laravel, Codeigniter. 
+ - CMS : WordPress.
+ - Languages : PHP, JavaScript, HTML5.
+ - Styling Markups : CSS3, Bootstrap3 & Bootstrap4.
+ - Databases : MYSQL, JSON, MongoDB, Firebase.
+ - JS Frameworks & Library : React, jQuery, Node.
+ - Social Network API's : Twitter.
+ - Payment Gateway : PayPal, Stripe, Razorpay.
+ - Tools : Git & GitHub, VS Code, Sublime.
+ - Interpersonal : Leadership, Communication, Flexibility, Teamwork. 
+**
 
 - 📫 How to reach me **jaydalwadi78@gmail.com**
 
