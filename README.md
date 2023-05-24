@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **Advance Laravel**
 
-- 💬 Ask me about ** 
-- -PHP Frameworks : Laravel, Codeigniter. 
+- 💬 Ask me about  
+- PHP Frameworks : Laravel, Codeigniter. 
  - CMS : WordPress.
  - Languages : PHP, JavaScript, HTML5.
  - Styling Markups : CSS3, Bootstrap3 & Bootstrap4.
