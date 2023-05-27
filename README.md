@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Dalwadi</h1>
 <h3 align="center">A passionate backtend developer from India</h3>
 
-- 🌱 I’m currently learning **Advance Laravel**
-
 - 💬 Ask me about  
 - PHP Frameworks : Laravel, Codeigniter. 
  - CMS : WordPress.
